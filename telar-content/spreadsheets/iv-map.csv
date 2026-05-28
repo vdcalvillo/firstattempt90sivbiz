@@ -1,0 +1,10 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,kic-document-9471,0.4399289128790458,0.5209697057549044,1.08,,"General Map of Isla Vista ","While this map is from the early 2000s, it gives us a great starting point for understanding where businesses stood and examining what made them successful. 
+",,,,,,,,
+2,kic-document-9471,0.6739331933024437,0.47467178497103896,5.086560364464693,,"Location #1: Woodstock's Pizza ","One of the longest-standing businesses in Isla Vista, Woodstock's Pizza opened up shop in 1982 and has sustained business in the area since then, along with 8 other locations along the West Coast. People attribute its sustained residency to the business's laid-back aesthetic and anti-corporation feel, a key element of success for longevity in Isla Vista 
+",,Learn more,iv-map-step2-layer1.md,,,,,
+3,kic-document-9471,0.602351136614265,0.13594088530549575,2.862820512820513,,"Location #2: Freebirds ","Although Isla Vista has had a plethora of Mexican restaurants occupy its commercial spaces, Freebirds' build-your-own model has been attributed as one of its key features for long-term success. ","Colorful map of different landmarks around Isla Vista and UC Santa Barbara 
+",,,,,,,
+4,kic-document-9471,0.7568729535714985,0.3787236659002555,5.086560364464693,,"Location #3: Kinko's ","Although the store was opened in 1970, students utilized the store to print out papers and purchase stationary supplies, a necessity before the advent of technology. ","Looking closer ",Learn more,iv-map-learn-more.md,,,,,
+5,kic-document-9471,0.565473797840268,0.5048438672992533,5.086560364464693,,"Location #4: Embarcadero Hall ","The building(s) has lived a myriad of lives before becoming what we now know as Embarcadero Hall. Starting out as a Bank of America before being burned down as part of a student protest, Embarcadero Hall was home to a concert venue known as ""The Graduate"" and eventually a club called ""The Anaconda""",,,,,,,,
